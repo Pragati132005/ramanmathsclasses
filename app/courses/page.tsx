@@ -152,39 +152,6 @@ const courses = [
     color: 'from-brand-gold to-amber-400',
     featured: true,
   },
-  {
-    id: 'jee',
-    grade: 'JEE Mathematics',
-    subject: 'JEE Main & Advanced',
-    tagline: 'From Good to IIT-Ready.',
-    description:
-      'Specialized JEE Mathematics preparation with focus on problem-solving depth, speed, and accuracy. Covers all JEE patterns with extensive practice on previous year questions.',
-    duration: '12 months intensive',
-    sessions: '5 sessions/week',
-    batchSize: '10-12 students',
-    assessments: 'Weekly chapter tests + Full syllabus mock tests',
-    syllabus: [
-      'Sets, Relations, Functions & Complex Numbers',
-      'Quadratic Equations & Sequences',
-      'Permutations, Combinations & Binomial',
-      'Matrices, Determinants & Vectors',
-      'Coordinate Geometry (2D & 3D)',
-      'Differential Calculus',
-      'Integral Calculus',
-      'Differential Equations',
-      'Statistics & Probability',
-      'Trigonometry & Mathematical Reasoning',
-    ],
-    outcomes: [
-      'JEE Main 99+ percentile target',
-      'JEE Advanced preparation',
-      'Top engineering college admission',
-      'Mathematical problem-solving mastery',
-    ],
-    badge: 'Competitive',
-    badgeColor: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400',
-    color: 'from-red-600 to-rose-500',
-  },
   
 ];
 
