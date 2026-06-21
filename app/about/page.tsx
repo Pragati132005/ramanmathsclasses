@@ -63,12 +63,12 @@ const milestones = [
 ];
 
 const stats = [
-  { value: '10+', label: 'Years of Teaching', icon: BookOpen },
+  { value: '15+', label: 'Years of Teaching', icon: BookOpen },
   { value: '10+', label: 'District Toppers', icon: Trophy },
   { value: '25+', label: '100/100 Scorers', icon: Star },
   { value: '30+', label: 'JEE Achievers', icon: Award },
-  { value: '500+', label: 'Students Mentored', icon: Users },
-  { value: '7', label: 'Courses Offered', icon: Target },
+  { value: '1000+', label: 'Students Mentored', icon: Users },
+  { value: '5', label: 'Courses Offered', icon: Target },
 ];
 
 export default function AboutPage() {

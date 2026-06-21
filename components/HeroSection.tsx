@@ -8,7 +8,7 @@ const badges = [
   { icon: Award, label: 'District Toppers', color: 'bg-brand-gold text-[#0A1628]' },
   { icon: Star, label: '100/100 Scorers', color: 'bg-green-500 text-white' },
   { icon: TrendingUp, label: 'JEE Achievers', color: 'bg-blue-500 text-white' },
-  { icon: Users, label: '500+ Students', color: 'bg-rose-500 text-white' },
+  { icon: Users, label: '1000+ Students', color: 'bg-rose-500 text-white' },
 ];
 
 const mathSymbols = ['∑', 'π', '√', '∫', 'Δ', 'θ', '∞', 'α', 'β', 'λ'];
