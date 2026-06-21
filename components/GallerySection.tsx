@@ -10,13 +10,7 @@ const galleryItems = [
     span: 'lg:col-span-2 lg:row-span-2',
     aspect: 'aspect-[4/3]',
   },
-  {
-    src: '/images/gallery/1684742640027.jpg',
-    alt: 'Classroom session',
-    caption: 'Interactive Classroom',
-    span: 'lg:col-span-1',
-    aspect: 'aspect-square',
-  },
+  
   {
     src: '/images/gallery/IMG-20230801-WA0001.jpg',
     alt: 'Students working together',
@@ -49,6 +43,13 @@ const galleryItems = [
     src: '/images/gallery/IMG-20250301-WA0010.jpg',
     alt: 'Award ceremony',
     caption: 'Award Ceremony',
+    span: 'lg:col-span-1',
+    aspect: 'aspect-square',
+  },
+  {
+    src: '/images/gallery/1684742640027.jpg',
+    alt: 'Classroom session',
+    caption: 'Interactive Classroom',
     span: 'lg:col-span-1',
     aspect: 'aspect-square',
   },
