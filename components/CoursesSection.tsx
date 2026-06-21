@@ -44,16 +44,6 @@ const courses = [
     badgeColor: 'bg-brand-gold/20 text-amber-700 dark:bg-brand-gold/10 dark:text-brand-gold',
     featured: true,
   },
-  {
-    grade: 'JEE',
-    subject: 'Mathematics',
-    description: 'Comprehensive JEE Main & Advanced preparation with problem-solving focus.',
-    highlights: ['Calculus', 'Coordinate Geometry', 'Algebra', 'Probability & Statistics'],
-    duration: '12 months',
-    sessions: '5x/week',
-    badge: 'Competitive',
-    badgeColor: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400',
-  },
   
 ];
 
