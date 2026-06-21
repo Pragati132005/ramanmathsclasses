@@ -154,8 +154,8 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <p className="text-sm font-semibold text-foreground">Business Hours</p>
-                      <p className="text-sm text-muted-foreground">Mon–Sat: 8:00 AM – 8:00 PM</p>
-                      <p className="text-sm text-muted-foreground">Sunday: 9:00 AM – 2:00 PM</p>
+                      <p className="text-sm text-muted-foreground">Mon–Sat: 3:00 PM – 7:00 PM</p>
+                      <p className="text-sm text-muted-foreground">Sunday: Off</p>
                     </div>
                   </div>
                 </div>
