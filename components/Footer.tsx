@@ -31,7 +31,7 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-3 mb-5">
               <div className="relative w-12 h-12 bg-white rounded-xl p-1 flex-shrink-0">
                 <Image
-                  src="/images/logo/IMG-20231009-WA0003-removebg-preview_(2).png"
+                  src="\images\logo\1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg"
                   alt="Raman Maths Classes"
                   fill
                   className="object-contain p-1"
