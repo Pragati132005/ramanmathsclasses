@@ -98,7 +98,7 @@ export function CTASection() {
               {/* Image */}
               <div className="relative w-64 h-72 sm:w-72 sm:h-80 rounded-2xl overflow-hidden border-2 border-white/20 shadow-2xl">
                 <Image
-                  src="/images/founder/IMG-20230916-WA0042.jpg"
+                  src="\images\founder\IMG-20231009-WA0003-removebg-preview_(2).png"
                   alt="Sarvesh Mishra"
                   fill
                   className="object-cover object-top"
@@ -114,7 +114,7 @@ export function CTASection() {
               {/* Stats card */}
               <div className="absolute -right-6 -top-6 bg-white rounded-2xl shadow-2xl p-4 min-w-[140px] border border-gray-100">
                 <div className="text-center">
-                  <p className="font-montserrat font-extrabold text-3xl text-brand-blue">10+</p>
+                  <p className="font-montserrat font-extrabold text-3xl text-brand-blue">15+</p>
                   <p className="text-xs text-gray-600 font-medium">Years of Excellence</p>
                 </div>
                 <div className="mt-2 flex justify-center gap-0.5">
@@ -127,7 +127,7 @@ export function CTASection() {
               {/* Bottom card */}
               <div className="absolute -left-6 -bottom-6 bg-brand-gold rounded-2xl shadow-2xl p-4 min-w-[140px]">
                 <p className="font-montserrat font-extrabold text-2xl text-[#0A1628]">100+</p>
-                <p className="text-[#0A1628]/70 text-xs font-semibold">District Toppers</p>
+                <p className="text-[#0A1628]/70 text-xs font-semibold">School Toppers</p>
               </div>
             </div>
           </div>
