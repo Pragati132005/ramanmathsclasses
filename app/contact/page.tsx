@@ -78,7 +78,7 @@ export default function ContactPage() {
                 <div className="relative flex items-center gap-4 mb-5">
                   <div className="relative w-16 h-16 rounded-xl overflow-hidden border-2 border-white/30 flex-shrink-0">
                     <Image
-                      src="/images/founder/IMG-20230916-WA0042.jpg"
+                      src="\images\founder\IMG-20231009-WA0003-removebg-preview_(2).png"
                       alt="Sarvesh Mishra"
                       fill
                       className="object-cover object-top"
