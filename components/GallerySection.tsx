@@ -46,13 +46,7 @@ const galleryItems = [
     span: 'lg:col-span-1',
     aspect: 'aspect-square',
   },
-  {
-    src: '/images/gallery/1684742640027.jpg',
-    alt: 'Classroom session',
-    caption: 'Interactive Classroom',
-    span: 'lg:col-span-1',
-    aspect: 'aspect-square',
-  },
+  
 ];
 
 export function GallerySection() {
