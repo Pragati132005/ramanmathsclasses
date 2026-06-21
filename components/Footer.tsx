@@ -7,7 +7,7 @@ const courses = [
   { label: 'Class X Mathematics', href: '/courses' },
   { label: 'Class XI Mathematics', href: '/courses' },
   { label: 'Class XII Mathematics', href: '/courses' },
-  { label: 'JEE Mathematics', href: '/courses' },
+  
   
 ];
 
