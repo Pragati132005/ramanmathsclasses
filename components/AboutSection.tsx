@@ -12,9 +12,9 @@ const highlights = [
 ];
 
 const achievements = [
-  { icon: GraduationCap, value: '10+', label: 'Years Teaching' },
+  { icon: GraduationCap, value: '15+', label: 'Years Teaching' },
   { icon: Target, value: '100+', label: 'Toppers Produced' },
-  { icon: BookOpen, value: '7', label: 'Courses Offered' },
+  { icon: BookOpen, value: '5', label: 'Courses Offered' },
 ];
 
 export function AboutSection() {
