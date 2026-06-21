@@ -72,7 +72,7 @@ export function HeroSection() {
 
             {/* Description */}
             <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-lg">
-              Expert mathematics coaching for Class IX–XII, JEE, NDA & CUET under the
+              Expert mathematics coaching for Class IX–XII, Foundation(JEE, NDA & CUET) under the
               personal guidance of{' '}
               <span className="font-semibold text-brand-blue dark:text-brand-gold">
                 Sarvesh Mishra
