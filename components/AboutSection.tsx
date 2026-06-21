@@ -113,8 +113,7 @@ export function AboutSection() {
               At Raman Maths Classes, every student receives personal attention and a
               customized learning path. Sarvesh Sir's teaching philosophy centers around
               building deep conceptual understanding rather than rote learning — ensuring
-              students excel not just in exams, but in competitive assessments like JEE, NDA,
-              and CUET.
+              students excel not just in exams, but in competitive assessments like JEE.
             </p>
 
             {/* Highlights list */}

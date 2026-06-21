@@ -109,10 +109,10 @@ export function HeroSection() {
             {/* Trust metrics */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-4">
               {[
-                { value: '10+', label: 'Years of Trust' },
-                { value: '100+', label: 'Dist. Toppers' },
-                { value: '50+', label: '100/100 Scores' },
-                { value: '500+', label: 'Students Guided' },
+                { value: '15+', label: 'Years of Trust' },
+                { value: '10+', label: 'Dist. Toppers' },
+                { value: '25+', label: '100/100 Scores' },
+                { value: '1000+', label: 'Students Guided' },
               ].map((stat, i) => (
                 <div
                   key={stat.label}
