@@ -45,7 +45,7 @@ export function HeroSection() {
           {/* Left: Content */}
           <div className="space-y-6 opacity-0 animate-fade-in-up" style={{ animationFillMode: 'forwards' }}>
             {/* Badge */}
-            <div className="mt-2 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-blue/10 dark:bg-brand-blue/20 border border-brand-blue/20 dark:border-brand-blue/30">
+            <div className="mt-1 inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-blue/10 dark:bg-brand-blue/20 border border-brand-blue/20 dark:border-brand-blue/30">
               <div className="w-2 h-2 rounded-full bg-brand-gold animate-pulse" />
               <span className="text-brand-blue dark:text-brand-gold text-xs font-semibold tracking-wide uppercase">
                 An Institute of Topper's Trust
