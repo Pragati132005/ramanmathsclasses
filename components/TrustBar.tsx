@@ -61,7 +61,7 @@ const stats = [
 
 export function TrustBar() {
   return (
-    <section className="py-16 bg-white dark:bg-[#060E1E]">
+    <section className="py-14 bg-white dark:bg-[#060E1E]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section header */}
         <div className="text-center mb-12">
