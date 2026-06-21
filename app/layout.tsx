@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     template: '%s | Raman Maths Classes',
   },
   description:
-    "Raman Maths Classes by Sarvesh Mishra – An Institute of Topper's Trust. Meet Sarvesh Mishra. The driving force behind Raman Maths Classes, Sarvesh Mishra is a dedicated Mathematics mentor known for his exceptional teaching methodology, conceptual clarity, and unwavering commitment to student success. Affectionately known by many students as the 'Wizard of Mathematics', he has helped produce District Toppers, School Toppers, All India Mathematics Toppers, JEE achievers, and numerous 100/100 scorers in Mathematics. With a student-first approach and years of trusted guidance, he continues to inspire confidence, excellence, and academic achievement. VISION TO REALITY! AN INSTITUTE OF TOPPER'S TRUST.",
+    "Raman Maths Classes by Sarvesh Mishra – An Institute of Topper's Trust. Meet Sarvesh Mishra. The driving force behind Raman Maths Classes, Sarvesh Mishra is a dedicated Mathematics mentor known for his exceptional teaching methodology, conceptual clarity, and unwavering commitment to student success. Affectionately known by many students as the 'Architect of Toppers', he has helped produce District Toppers, School Toppers, All India Mathematics Toppers, JEE achievers, and numerous 100/100 scorers in Mathematics. With a student-first approach and years of trusted guidance, he continues to inspire confidence, excellence, and academic achievement. VISION TO REALITY! AN INSTITUTE OF TOPPER'S TRUST.",
   keywords: [
     'Raman Maths Classes',
     'Sarvesh Mishra',
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
       'An Institute of Topper\'s Trust. Expert mathematics coaching producing District Toppers, 100/100 scorers & JEE achievers.',
     images: [
       {
-        url: 'public/images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg',
+        url: '/images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg',
         width: 1200,
         height: 630,
         alt: 'Raman Maths Classes',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Raman Maths Classes | Vision To Reality',
     description:
-      'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, JEE, NDA & CUET.',
+      'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, Foundations(JEE, NDA & CUET).',
     images: ['/images/logo/IMG-20231009-WA0003-removebg-preview_(2).png'],
   },
   robots: {
@@ -102,7 +102,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               '@type': 'EducationalOrganization',
               name: 'Raman Maths Classes',
               description:
-                'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, JEE, NDA & CUET.',
+                'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, Foundations(JEE, NDA & CUET).',
               founder: {
                 '@type': 'Person',
                 name: 'Sarvesh Mishra',
