@@ -5,7 +5,7 @@ import { Trophy, Star, TrendingUp, Users, Award, Target } from 'lucide-react';
 const stats = [
   {
     icon: Trophy,
-    value: '100+',
+    value: '10+',
     label: 'District Toppers',
     sub: 'Across all years',
     color: 'from-brand-blue to-brand-blue-light',
@@ -14,7 +14,7 @@ const stats = [
   },
   {
     icon: Star,
-    value: '200+',
+    value: '100+',
     label: 'School Toppers',
     sub: 'Multiple schools',
     color: 'from-brand-gold to-amber-400',
@@ -23,7 +23,7 @@ const stats = [
   },
   {
     icon: Award,
-    value: '50+',
+    value: '25+',
     label: '100/100 Scorers',
     sub: 'In Mathematics',
     color: 'from-green-600 to-emerald-500',
@@ -41,7 +41,7 @@ const stats = [
   },
   {
     icon: TrendingUp,
-    value: '10+',
+    value: '15+',
     label: 'Years of Trust',
     sub: 'Consistent results',
     color: 'from-violet-600 to-purple-500',
@@ -50,7 +50,7 @@ const stats = [
   },
   {
     icon: Users,
-    value: '500+',
+    value: '1000+',
     label: 'Students Mentored',
     sub: 'And counting',
     color: 'from-cyan-600 to-blue-500',
