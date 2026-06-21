@@ -59,7 +59,7 @@ const toppers = [
 ];
 
 const yearStats = [
-  { year: '2026', toppers: 26, Scorers: 12 },
+  { year: '2026', toppers: 26, Scorers: 20 },
   { year: '2025', toppers: 22, Scorers: 15 },
   { year: '2024', toppers: 20, Scorers: 11 },
   { year: '2023', toppers: 16, Scorers: 9 },
