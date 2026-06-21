@@ -68,7 +68,7 @@ const stats = [
   { value: '25+', label: '100/100 Scorers', icon: Star },
   { value: '30+', label: 'JEE Achievers', icon: Award },
   { value: '1000+', label: 'Students Mentored', icon: Users },
-  { value: '5', label: 'Courses Offered', icon: Target },
+  { value: '4', label: 'Courses Offered', icon: Target },
 ];
 
 export default function AboutPage() {
