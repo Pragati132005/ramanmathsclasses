@@ -169,7 +169,7 @@ export function Footer() {
             <span className="text-brand-gold/60">An Institute of Topper's Trust</span>
           </p>
           <p className="text-white/30 text-xs">
-            Designed with excellence for academic success
+            Designed with excellence for academic success. 
             This website is intended for informational purposes only. Admissions, fee-related matters, and administrative processes are handled offline.
           </p>
         </div>

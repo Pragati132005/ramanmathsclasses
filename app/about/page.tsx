@@ -99,7 +99,7 @@ export default function AboutPage() {
                 <div className="absolute inset-0 bg-gradient-to-br from-brand-blue/10 to-brand-gold/10 rounded-3xl -rotate-3" />
                 <div className="relative w-64 h-80 rounded-2xl overflow-hidden border-4 border-white dark:border-[#0A1628] shadow-2xl">
                   <Image
-                    src="/images/founder/IMG-20230916-WA0042.jpg"
+                    src="\images\founder\IMG-20231009-WA0003-removebg-preview_(2).png"
                     alt="Sarvesh Mishra - Founder of Raman Maths Classes"
                     fill
                     className="object-cover object-top"
