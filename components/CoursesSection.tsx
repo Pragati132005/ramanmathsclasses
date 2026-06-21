@@ -54,16 +54,7 @@ const courses = [
     badge: 'Competitive',
     badgeColor: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400',
   },
-  {
-    grade: 'NDA & CUET',
-    subject: 'Mathematics',
-    description: 'Targeted preparation for NDA and CUET mathematics sections.',
-    highlights: ['Algebra', 'Trigonometry', 'Statistics', 'Matrices'],
-    duration: '6 months',
-    sessions: '3x/week',
-    badge: 'Exam-Specific',
-    badgeColor: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400',
-  },
+  
 ];
 
 export function CoursesSection() {
