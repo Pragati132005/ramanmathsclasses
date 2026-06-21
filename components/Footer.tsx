@@ -8,8 +8,7 @@ const courses = [
   { label: 'Class XI Mathematics', href: '/courses' },
   { label: 'Class XII Mathematics', href: '/courses' },
   { label: 'JEE Mathematics', href: '/courses' },
-  { label: 'NDA Mathematics', href: '/courses' },
-  { label: 'CUET Mathematics', href: '/courses' },
+  
 ];
 
 const quickLinks = [
