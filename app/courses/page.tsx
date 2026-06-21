@@ -336,11 +336,10 @@ export default function CoursesPage() {
       <section className="py-16 bg-brand-blue">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="font-montserrat font-extrabold text-3xl text-white mb-4">
-            Not Sure Which Course is Right for You?
+            Get connected to ensure you get the right education !
           </h2>
           <p className="text-white/70 mb-8">
-            Contact us for a free counseling session. We'll help you choose the best program
-            based on your current level and goals.
+            Contact us for a free counseling session. We'll help you in chasing your dreams and goals.
           </p>
           <Link
             href="/contact"
