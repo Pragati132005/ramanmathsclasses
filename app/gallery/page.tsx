@@ -17,13 +17,7 @@ const galleryImages = [
     category: 'Classroom',
     span: 'md:col-span-2 md:row-span-2',
   },
-  {
-    src: '/images/gallery/IMG-20230916-WA0007.jpg',
-    alt: 'Classroom teaching session',
-    caption: 'Interactive Classroom Learning',
-    category: 'Classroom',
-    span: 'md:col-span-1',
-  },
+  
   {
     src: '/images/gallery/IMG-20230801-WA0001.jpg',
     alt: 'Students working together',
@@ -148,6 +142,13 @@ const galleryImages = [
     alt: 'Workshop session',
     caption: 'Special Workshop',
     category: 'Events',
+    span: 'md:col-span-1',
+  },
+  {
+    src: '/images/gallery/IMG-20230916-WA0007.jpg',
+    alt: 'Classroom teaching session',
+    caption: 'Interactive Classroom Learning',
+    category: 'Classroom',
     span: 'md:col-span-1',
   },
   {
