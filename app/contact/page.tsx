@@ -21,8 +21,7 @@ const courses = [
   'Class XI Mathematics',
   'Class XII Mathematics',
   'JEE Mathematics',
-  'NDA Mathematics',
-  'CUET Mathematics',
+  
 ];
 
 export default function ContactPage() {

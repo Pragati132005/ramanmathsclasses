@@ -12,9 +12,9 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Mathematics Courses - Class IX, X, XI, XII, JEE, NDA, CUET',
+  title: 'Mathematics Courses - Class IX, X, XI, XII, JEE',
   description:
-    'Comprehensive mathematics coaching programs at Raman Maths Classes. Expert preparation for CBSE boards, JEE Main & Advanced, NDA, and CUET Mathematics.',
+    'Comprehensive mathematics coaching programs at Raman Maths Classes. Expert preparation for CBSE boards, JEE Main & Advanced Mathematics.',
 };
 
 const courses = [
@@ -185,39 +185,7 @@ const courses = [
     badgeColor: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400',
     color: 'from-red-600 to-rose-500',
   },
-  {
-    id: 'nda-cuet',
-    grade: 'NDA & CUET',
-    subject: 'Mathematics',
-    tagline: 'Targeted. Effective. Results.',
-    description:
-      'Focused preparation specifically designed for NDA Paper I Mathematics and CUET Mathematics. Covers the exact syllabus with exam-specific strategies and practice.',
-    duration: '6 months intensive',
-    sessions: '3 sessions/week',
-    batchSize: '10-15 students',
-    assessments: 'Weekly practice tests + Mock exams',
-    syllabus: [
-      'Algebra & Number Theory',
-      'Matrices & Determinants',
-      'Trigonometry',
-      'Analytical Geometry (2D & 3D)',
-      'Differential Calculus',
-      'Integral Calculus & Differential Equations',
-      'Vector Algebra',
-      'Statistics & Probability',
-      'Numerical Methods',
-      'Logical Reasoning & Data Interpretation',
-    ],
-    outcomes: [
-      'NDA written exam qualification',
-      'CUET high percentile',
-      'Strong foundation for service careers',
-      'Exam-specific problem strategies',
-    ],
-    badge: 'Exam-Specific',
-    badgeColor: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400',
-    color: 'from-cyan-600 to-blue-500',
-  },
+  
 ];
 
 export default function CoursesPage() {

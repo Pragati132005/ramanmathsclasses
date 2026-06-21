@@ -64,8 +64,8 @@ const milestones = [
 
 const stats = [
   { value: '10+', label: 'Years of Teaching', icon: BookOpen },
-  { value: '100+', label: 'District Toppers', icon: Trophy },
-  { value: '50+', label: '100/100 Scorers', icon: Star },
+  { value: '10+', label: 'District Toppers', icon: Trophy },
+  { value: '25+', label: '100/100 Scorers', icon: Star },
   { value: '30+', label: 'JEE Achievers', icon: Award },
   { value: '500+', label: 'Students Mentored', icon: Users },
   { value: '7', label: 'Courses Offered', icon: Target },
@@ -122,14 +122,14 @@ export default function AboutPage() {
                   an institution that has earned the trust of hundreds of students and parents
                   over the past decade. With a deep passion for mathematics and an unwavering
                   commitment to student success, he has built an institute that consistently
-                  produces district toppers, school toppers, and competitive exam achievers.
+                  produces district toppers, school toppers, and competitive exam achievers in Etawah.
                 </p>
                 <p className="text-foreground/80 leading-relaxed text-base">
                   His teaching philosophy is rooted in conceptual clarity — he believes that
                   when students truly understand mathematics, it becomes their strongest
                   subject rather than their weakest. This approach has led to remarkable
                   results: multiple 100/100 scorers in board examinations, students qualifying
-                  JEE, NDA, and CUET, and consistent top ranks across schools and districts.
+                  JEE and consistent top ranks across schools and districts.
                 </p>
                 <p className="text-foreground/80 leading-relaxed text-base">
                   Beyond academics, Sarvesh Mishra invests in each student's confidence and
