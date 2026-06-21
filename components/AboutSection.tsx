@@ -14,7 +14,7 @@ const highlights = [
 const achievements = [
   { icon: GraduationCap, value: '15+', label: 'Years Teaching' },
   { icon: Target, value: '100+', label: 'Toppers Produced' },
-  { icon: BookOpen, value: '5', label: 'Courses Offered' },
+  { icon: BookOpen, value: '4', label: 'Courses Offered' },
 ];
 
 export function AboutSection() {
