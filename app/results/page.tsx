@@ -11,21 +11,21 @@ export const metadata: Metadata = {
 const featuredAchievements = [
   {
     title: 'District Toppers',
-    count: '100+',
+    count: '10+',
     description: 'Students who ranked #1 in their district in Mathematics',
     color: 'from-brand-blue to-brand-blue-light',
     icon: Trophy,
   },
   {
     title: 'School Toppers',
-    count: '200+',
+    count: '100+',
     description: 'Top scorers across multiple schools in the region',
     color: 'from-brand-gold to-amber-400',
     icon: Medal,
   },
   {
     title: '100/100 Scorers',
-    count: '50+',
+    count: '25+',
     description: 'Students who achieved perfect marks in board Mathematics',
     color: 'from-green-600 to-emerald-500',
     icon: Star,
@@ -105,9 +105,8 @@ const yearWiseResults: Record<string, Array<{
     { name: 'Khushi Bhadauria', school: 'MLZS', class: 'IX', score: '', achievement: 'School Topper #1' },
   ],
   '2023': [
-    { name: 'Dev Sharma', school: 'St. Peter\'s', class: 'IX', score: '100/100', achievement: 'School Topper #1' },
-    { name: 'Namrata Singh', school: '', class: '', score: '', achievement: 'IIT PATNA' },
     { name: 'Pragati Rajput', school: 'KV', class: 'XII', score: '', achievement: '100/100 | School Topper #1', rank: '98.99%ile JEE MAINS' },
+    { name: 'Namrata Singh', school: '', class: '', score: '', achievement: 'IIT PATNA' },
     { name: 'Sankalp Agnihotri', school: 'The Millenium School Lucknow', class: 'XII', score: '95/100', achievement: 'School Topper #1', rank: '96.5%' },
     { name: 'Sushant Yadav', school: 'DPS', class: 'XII', score: '94/100', achievement: 'School Topper #2' },
     { name: 'Akash Singh', school: 'SMIC', class: 'X', score: '95/100', achievement: 'School Topper #2', rank:'95.8%'},
@@ -117,6 +116,7 @@ const yearWiseResults: Record<string, Array<{
     { name: 'Rupali Singh', school: 'SVPS', class: 'X', score: '95/100', achievement: '92.6% | Topper' },
     { name: 'Avantika Chaudhary', school: 'SMIC', class: 'X', score: '95/100', achievement: '93.4% | Topper' },
     { name: 'Nayan Rajput', school: 'SVPS', class: 'X', score: '95/100', achievement: '92.6% | Topper' },
+    { name: 'Dev Sharma', school: 'St. Peter\'s', class: 'IX', score: '', achievement: '100/100', rank: 'School Topper #1'},
   ],
   'Many more results': [
     { name: 'Utkarsh Yadav', school: 'SMIC', class: 'XII', score: '2019', achievement: 'District Topper #1', rank:'97.4%' },
