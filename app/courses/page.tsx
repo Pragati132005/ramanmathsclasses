@@ -14,7 +14,7 @@ import {
 export const metadata: Metadata = {
   title: 'Mathematics Courses - Class IX, X, XI, XII, JEE',
   description:
-    'Comprehensive mathematics coaching programs at Raman Maths Classes. Expert preparation for CBSE boards, JEE Main & Advanced Mathematics.',
+    'Comprehensive mathematics coaching programs at Raman Maths Classes. Expert preparation for CBSE boards, Foundation forJEE Main & Advanced Mathematics.',
 };
 
 const courses = [
@@ -26,8 +26,6 @@ const courses = [
     description:
       'Build a rock-solid foundation in mathematics with comprehensive coverage of the Class IX CBSE syllabus. Focus on conceptual understanding that sets the stage for board exam excellence.',
     duration: '10 months (April – January)',
-    sessions: '3 sessions/week',
-    batchSize: '15-20 students',
     assessments: 'Weekly tests + Monthly exams',
     syllabus: [
       'Number Systems & Real Numbers',
@@ -58,9 +56,7 @@ const courses = [
     tagline: 'Board Mastery. District Rankings.',
     description:
       'Intensive board exam preparation with a focus on scoring 100/100. Comprehensive coverage of the Class X CBSE Mathematics syllabus with extensive practice and revision sessions.',
-    duration: '10 months (April – February)',
-    sessions: '4 sessions/week',
-    batchSize: '15-20 students',
+    duration: '10 months (April – January)',
     assessments: 'Weekly tests + Pre-boards + Mock exams',
     syllabus: [
       'Real Numbers & Euclid\'s Lemma',
@@ -93,8 +89,6 @@ const courses = [
     description:
       'Rigorous Class XI mathematics preparation that builds the advanced mathematical thinking required for board excellence and JEE qualification. Every concept taught with depth and clarity.',
     duration: '10 months (April – February)',
-    sessions: '4 sessions/week',
-    batchSize: '12-15 students',
     assessments: 'Weekly tests + Unit tests + Pre-boards',
     syllabus: [
       'Sets, Relations & Functions',
@@ -125,9 +119,7 @@ const courses = [
     tagline: 'Boards + JEE. Maximum Results.',
     description:
       'Comprehensive Class XII preparation that simultaneously targets board exam excellence and competitive exam success. The most result-oriented program at Raman Maths Classes.',
-    duration: '10 months (April – February)',
-    sessions: '5 sessions/week',
-    batchSize: '12-15 students',
+    duration: '10 months (April – January)',
     assessments: 'Weekly tests + Unit tests + Pre-boards + Mock JEE',
     syllabus: [
       'Relations and Functions',
@@ -143,7 +135,7 @@ const courses = [
     ],
     outcomes: [
       'Target: 100/100 in board exams',
-      'JEE Main qualification',
+      'Foundation forJEE Main ',
       'NDA/CUET readiness',
       'Engineering entrance foundation',
     ],
@@ -231,8 +223,6 @@ export default function CoursesPage() {
                   <div className="grid grid-cols-2 gap-3 mb-6">
                     {[
                       { icon: Clock, label: 'Duration', value: course.duration },
-                      { icon: Calendar, label: 'Sessions', value: course.sessions },
-                      { icon: Users, label: 'Batch Size', value: course.batchSize },
                       { icon: BarChart3, label: 'Assessments', value: course.assessments },
                     ].map((info) => (
                       <div
