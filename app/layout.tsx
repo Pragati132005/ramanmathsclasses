@@ -27,6 +27,9 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://ramanmathsclasses.com'),
+  icons: {
+    icon: '/icon.png',
+  },
   title: {
     default: 'Raman Maths Classes | Sarvesh Mishra | Vision To Reality - Best Maths Coaching Institute in Etawah',
     template: '%s | Raman Maths Classes',
