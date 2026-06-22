@@ -28,7 +28,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://ramanmathsclasses.com'),
   title: {
-    default: 'Raman Maths Classes | Vision To Reality - Best Maths Coaching',
+    default: 'Raman Maths Classes | Sarvesh Mishra | Vision To Reality - Best Maths Coaching Institute in Etawah',
     template: '%s | Raman Maths Classes',
   },
   description:
@@ -36,17 +36,23 @@ export const metadata: Metadata = {
   keywords: [
     'Raman Maths Classes',
     'Sarvesh Mishra',
-    'best maths coaching',
-    'mathematics tutor',
+    'best maths coaching Etawah',
+    'maths Coaching Etawah',
+    'mathematics Teacher Etawah',
     'JEE maths',
     'CBSE maths',
     'NDA maths',
     'CUET maths',
     'district topper',
     'Class 10 maths',
+    'Class 9 maths',
+    'Class 11 maths',
     'Class 12 maths',
     '100/100 scorer',
-    'math coaching institute',
+    'District Topper',
+    'School Topper',
+    'All India Mathematics Topper',
+    'best maths coaching institute in Etawah',
   ],
   authors: [{ name: 'Sarvesh Mishra' }],
   creator: 'Raman Maths Classes',
@@ -71,7 +77,7 @@ export const metadata: Metadata = {
     title: 'Raman Maths Classes | Vision To Reality',
     description:
       'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, Foundations(JEE, NDA & CUET).',
-    images: ['/images/logo/IMG-20231009-WA0003-removebg-preview_(2).png'],
+    images: ['/images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg'],
   },
   robots: {
     index: true,
@@ -98,8 +104,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
+              {
               '@context': 'https://schema.org',
               '@type': 'EducationalOrganization',
+              name: 'Raman Maths Classes',
+              url: 'https://ramanmathsclasses.com',
+              logo: 'https://ramanmathsclasses.com//images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg',
+              telephone: '+919058934376',
+              address: {
+              '@type': 'PostalAddress',
+              addressLocality: 'Etawah',
+              addressRegion: 'Uttar Pradesh',
+              addressCountry: 'IN'
+              },
               name: 'Raman Maths Classes',
               description:
                 'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, Foundations(JEE, NDA & CUET).',
