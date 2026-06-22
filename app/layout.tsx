@@ -68,7 +68,7 @@ export const metadata: Metadata = {
       'An Institute of Topper\'s Trust. Expert mathematics coaching producing District Toppers, 100/100 scorers & JEE achievers.',
     images: [
       {
-        url: ['/images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg'],
+        url: '/images/logo/1000047065_021d5b59f2bf5860ab3b1609d06e72b6-2_12_2024,_12_47_30_am.jpg',
         width: 1200,
         height: 630,
         alt: 'Raman Maths Classes',
@@ -107,7 +107,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
-              {
+              
               '@context': 'https://schema.org',
               '@type': 'EducationalOrganization',
               name: 'Raman Maths Classes',
@@ -120,7 +120,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               addressRegion: 'Uttar Pradesh',
               addressCountry: 'IN'
               },
-              name: 'Raman Maths Classes',
+              
               description:
                 'An Institute of Topper\'s Trust. Expert mathematics coaching for Class IX–XII, Foundations(JEE, NDA & CUET).',
               founder: {
