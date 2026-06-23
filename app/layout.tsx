@@ -39,6 +39,11 @@ export const metadata: Metadata = {
   keywords: [
     'Raman Maths Classes',
     'Sarvesh Mishra',
+    'Sarvesh Mishra Etawah',
+    'Sarvesh Mishra sir',
+    'Sarvesh Mishra maths',
+    'Sarvesh Mishra Sir Maths',
+    'Sarvesh Mishra Etawah maths',
     'best maths coaching Etawah',
     'maths Coaching Etawah',
     'mathematics Teacher Etawah',
