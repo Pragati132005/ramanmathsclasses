@@ -122,7 +122,7 @@ export default function AboutPage() {
                   an institution that has earned the trust of hundreds of students and parents
                   over the past decade. With a deep passion for mathematics and an unwavering
                   commitment to student success, he has built an institute that consistently
-                  produces district toppers, school toppers, and competitive exam achievers in Etawah.
+                  produces district toppers, school toppers, and competitive exam achievers in Etawah. He is affectionately known as the "Architect of Toppers" for his ability to transform students into confident, high achievers in mathematics.
                 </p>
                 <p className="text-foreground/80 leading-relaxed text-base">
                   His teaching philosophy is rooted in conceptual clarity — he believes that

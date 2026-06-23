@@ -106,7 +106,7 @@ export function AboutSection() {
               transformed mathematics from a feared subject into a strength for hundreds of
               students. His unique conceptual approach, combined with disciplined practice
               routines, has produced District Toppers, All India Mathematics Toppers, and
-              multiple 100/100 scorers.
+              multiple 100/100 scorers. He is affectionately known as the "Architect of Toppers" for his ability to transform students into confident, high achievers in mathematics.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
